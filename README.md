@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samu1997
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on frontend technologies(JS frameworks), Ionic, MEAN Stach and Wordpress
+- 🌱 I’m currently learning Go Lang
+- 💞️ I’m looking to collaborate on frontend technologies(JS frameworks), MEAN Stach and Wordpress
 - 📫 How to reach me on samarthudgiri@outlook.com
 
 <!---
